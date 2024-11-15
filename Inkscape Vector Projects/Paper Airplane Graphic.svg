@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="Paper Airplane Graphic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#ffffff"
+     inkscape:document-units="px"
+     showgrid="false"
+     showborder="false"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="247.48737"
+     inkscape:cy="516.5415"
+     inkscape:window-width="1028"
+     inkscape:window-height="991"
+     inkscape:window-x="882"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2576"
+       transform="translate(-6.7351921,-18.147601)">
+      <path
+         style="fill:#333333;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 60.376043,167.25727 10.532289,-12.60831 -10.847916,-7.40834 -1.719792,8.73125 z"
+         id="path2569" />
+      <path
+         id="rect236"
+         style="opacity:1;fill:#e6e6e6;stroke-width:12.5165;stroke-linecap:round;stroke-linejoin:round"
+         d="M 41.138275,141.51927 103.34321,114.72652 82.726332,165.53014 Z"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="path2500"
+         style="opacity:1;fill:#acacac;fill-opacity:1;stroke-width:6.49392;stroke-linecap:round;stroke-linejoin:round"
+         d="m 41.138275,141.51927 25.453488,-0.67181 16.134562,24.68269 z"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="path2502"
+         style="opacity:1;fill:#696969;fill-opacity:1;stroke-width:5.45697;stroke-linecap:round;stroke-linejoin:round"
+         d="m 103.34305,114.72633 -50.871834,33.33595 7.904944,19.19521 v -14.63115 z" />
+    </g>
+  </g>
+</svg>
